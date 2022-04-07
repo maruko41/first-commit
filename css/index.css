@@ -1,0 +1,104 @@
+body {
+	font-family: Microsoft JhengHei;
+	color: #444;
+	text-align:center;
+	font-weight:bold;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_CbrQ07IyTsjJY9h-50qMN8tNUr_bY06ju0O1_aDUdkx8tO6F);
+}
+#carouselExampleIndicators{
+	height: 700px; /*can be anything*/
+    width: 1270px; /*can be anything*/
+    position: relative;
+
+}
+.d-block {
+	padding-top: 20px;
+	max-height: 100%;  
+    max-width: 100%; 
+    width: 600px;
+    height: 700px;
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+}
+img {
+	padding-top: 100px;
+	max-height: 100%;  
+    max-width: 100%; 
+    width: 300px;
+    height: 400px;
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+}
+h2{
+	color:#800080;
+	font-weight:bold;
+	font-size: 30px;
+
+}
+span .A{
+	font-family: Microsoft JhengHei;
+	font-size:30px;
+	padding:5px;
+	background-color:#F0FFFF;
+}
+p{
+	font-size: 18px;
+	color:#000000;
+}
+hr{
+	size:5px;
+	text-align:center;
+	width:100%;
+	color:#FFFFFF;
+}
+footer {
+	margin-top: 40px;
+	padding: 20px 0px;
+	background-color: #ddddff;
+	color: #dfffdf;
+	position: relative;
+ 	height: 90px;
+ 	position : absolute;
+ 	bottom : 0;
+ 	font-size:30px;
+}
+.me{
+	font-size: 20px;
+	color:#444444;
+}
+.head{
+	background-color: #F0FFFF;
+	color:#227700;
+}
+.logo{
+	padding-top: 35px;
+    width: 900px;
+    height: 500px;
+    max-height: 100%;  
+    max-width: 100%; 
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+}
+.navbar-default {
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+.navbar {
+	padding-top: 10px;
+}
+.navbar-brand {
+	font-size: 35px;
+	font-weight: bold;
+}
